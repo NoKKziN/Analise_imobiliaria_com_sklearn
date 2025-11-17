@@ -112,15 +112,14 @@ Foi gerado um gráfico com **Plotly** comparando:
 ## 🖼️ 5. Espaço para Prints Gerais do Projeto
 
 ### Dataset inicial:
-```
+
 <img width="1113" height="204" alt="image" src="https://github.com/user-attachments/assets/c7e917b2-1a88-4522-bf9f-e1d3b2a0a127" />
-```
+
 
 ### Gráfico plotado:
-```
+
 <img width="1545" height="371" alt="image" src="https://github.com/user-attachments/assets/bd26e826-acdc-4217-803b-3cf5ce55a60e" />
 
-```
 
 ---
 
