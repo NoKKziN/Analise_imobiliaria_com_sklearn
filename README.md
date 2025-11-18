@@ -102,11 +102,6 @@ Foi gerado um gráfico com **Plotly** comparando:
 - Valores reais (`y_test`)
 - Previsões do modelo final (`final_model_predictions`)
 
-### 📌 Espaço para inserir print do gráfico:
-```
-![Gráfico de Previsões](./images/predicoes.png)
-```
-
 ---
 
 ## 🖼️ 5. Espaço para Prints Gerais do Projeto
