@@ -95,7 +95,7 @@ Abaixo está a comparação qualitativa entre os modelos utilizados:
 
 ---
 
-## 🖼️ 5. Espaço para Prints Gerais do Projeto
+## 🖼️ 4. Espaço para Prints Gerais do Projeto
 
 ### Dataset inicial:
 
@@ -109,7 +109,7 @@ Abaixo está a comparação qualitativa entre os modelos utilizados:
 
 ---
 
-## 🚀 6. Próximos Passos
+## 🚀 5. Próximos Passos
 
 - Aplicar normalização/standardização
 - Testar modelos mais avançados (XGBoost, LightGBM, CatBoost)
