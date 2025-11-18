@@ -95,15 +95,6 @@ Abaixo está a comparação qualitativa entre os modelos utilizados:
 
 ---
 
-## 📈 4. Visualização das Previsões
-
-Foi gerado um gráfico com **Plotly** comparando:
-
-- Valores reais (`y_test`)
-- Previsões do modelo final (`final_model_predictions`)
-
----
-
 ## 🖼️ 5. Espaço para Prints Gerais do Projeto
 
 ### Dataset inicial:
