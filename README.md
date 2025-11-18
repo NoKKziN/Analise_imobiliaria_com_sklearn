@@ -70,7 +70,7 @@ Três modelos foram testados para prever os preços:
 
 - Ensemble de múltiplas árvores de decisão
 - Mais estável e com menor variância
-- Utilizou validação cruzada (10-fold)
+- Utilizei cross validation (10-fold)
 - Passou por ajuste fino (GridSearchCV)
 
 Melhores hiperparâmetros:
